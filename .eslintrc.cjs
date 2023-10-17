@@ -7,5 +7,6 @@ module.exports = {
   rules: {
     semi: ['error', 'never'],
     quotes: ['error', 'single'],
+    indent: ['error', 2]
   }
 }
